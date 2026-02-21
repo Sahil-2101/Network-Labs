@@ -1,10 +1,20 @@
-# Network Troubleshooting Lab (VLAN/Routing/ACL)
+# Network Troubleshooting Lab Runbook
 
-**Practice:** Intentionally misconfigured enterprise campus lab demonstrating systematic 7-step Cisco troubleshooting. Covers VLAN mismatches, inter-VLAN routing fails, ACL blocks.
+## Overview
+Instead of providing full device configurations, this repository documents
+a structured troubleshooting process using a runbook methodology during the
+development of my other projects.
 
-## Quick Run
-1. Open `misconfigured.pkt` in Packet Tracer.
-2. Follow `docs/runbook.md` for diagnostics/fixes.
-3. Verify in `fixed.pkt`.
+## Objectives
+- Apply OSI-based troubleshooting
+- Use structured Cisco show/debug commands
+- Identify VLAN mismatches
+- Fix inter-VLAN routing issues
+- Diagnose ACL misconfigurations
+- Document root cause and resolution
 
-**Skills:** OSI model, show commands, root cause analysis, runbook documentation.
+## Skills Practiced
+- OSI Layer isolation
+- Root cause analysis
+- CLI diagnostics
+- Network documentation
