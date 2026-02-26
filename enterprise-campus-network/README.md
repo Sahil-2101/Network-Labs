@@ -23,6 +23,9 @@ Designed a production‑ready head office campus network segmented for Users (VL
 ## IP Addressing
 See [docs/ip-addressing.md](docs/ip-addressing.md)
 
+## Verifications
+See [screenshots](screenshots)
+
 ## Results
 - 100% VLAN isolation + inter‑VLAN connectivity
 - OSPF adjacency stable, full route propagation
